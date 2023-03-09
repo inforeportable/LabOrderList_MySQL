@@ -1,0 +1,17 @@
+{
+    "eapp-check-update": [
+        {
+            "eapp-order": 1,
+            "eapp-name": "Lab Order List",
+            "eapp-version": "2023-03-09",
+            "eapp-lastupdate": "2023-03-09 13:54:37",
+            "eapp-start": "2023-03-09",
+            "eapp-stop": "NULL",
+            "eapp-hash-pas": "NULL",
+            "eapp-hash-dcu": "NULL",
+            "eapp-link-download": "NULL",
+            "eapp-list-lnf": "NULL",
+            "eapp-news": ""
+        }
+    ]
+}
