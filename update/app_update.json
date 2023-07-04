@@ -1,0 +1,56 @@
+{
+	"app_update_result": [
+		{
+			"app_update_build": "61",
+			"app_update_datetime": "2023-09-30",
+			"app_update_name": "laborderlist_my.exe",
+			"app_update_expire_date": "2023-12-31",
+			"app_update_name_pas_name": "NULL",
+			"app_update_name_pas_link": "NULL",
+			"app_update_name_dcu_name": "script.dcu",
+			"app_update_name_dcu_link": "NULL",
+			"app_update_name_forms_name": "forms.xml",
+			"app_update_name_forms_link": "NULL",
+			"app_update_install_file": "NULL",
+			"app_update_install_file_link": "NULL",
+			"app_update_report_count": "2",
+			"app_update_report_list": [
+				{
+					"app_update_report_name": "cupnp_lab_print_sticker.fr3",
+					"app_update_report_link": "NULL"
+				},
+				{
+					"app_update_report_name": "cupnp_lab_print_summary.fr3",
+					"app_update_report_link": "NULL"
+				}
+			],
+			"app_update_note": "NULL"
+		},
+		{
+			"app_update_build": "60",
+			"app_update_datetime": "2023-06-30",
+			"app_update_name": "laborderlist_my.exe",
+			"app_update_expire_date": "2023-09-30",
+			"app_update_name_pas_name": "NULL",
+			"app_update_name_pas_link": "NULL",
+			"app_update_name_dcu_name": "script.dcu",
+			"app_update_name_dcu_link": "NULL",
+			"app_update_name_forms_name": "forms.xml",
+			"app_update_name_forms_link": "NULL",
+			"app_update_install_file": "laborderlist-MySQL Setup 2023-06-30.exe",
+			"app_update_install_file_link": "https://drive.google.com/file/d/1Qf1140WYOWkMVfDsnJl3-GBy4qKTPYP6/view?usp=drive_link",
+			"app_update_report_count": "2",
+			"app_update_report_list": [
+				{
+					"app_update_report_name": "cupnp_lab_print_sticker.fr3",
+					"app_update_report_link": "NULL"
+				},
+				{
+					"app_update_report_name": "cupnp_lab_print_summary.fr3",
+					"app_update_report_link": "NULL"
+				}
+			],
+			"app_update_note": "+ เพิ่มการตรวจสอบสิทธิ์ โดยใช้ username และ password"
+		}
+	]
+}
